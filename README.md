@@ -7,13 +7,12 @@ Prerequisites:
 - npm (comes with Node) or pnpm/yarn
 
 Steps:
-1. Unzip the project and open the folder in VS Code.
-2. Open the terminal in VS Code (``Ctrl+` ``) and run:
+1. Open the terminal in VS Code (``Ctrl+` ``) and run:
    ```bash
    npm install
    npm run dev
    ```
-3. Open your browser at http://localhost:5173 (Vite default) — the app will load.
+2. Open your browser at http://localhost:5173 (Vite default) — the app will load.
 
 ## Files
 - `src/App.jsx` – main app component (the Book Finder UI).
